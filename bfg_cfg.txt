@@ -17,6 +17,7 @@ VP:tried,ADV,INF
 VP:was,ADJ
 VP:SIM
 VP:V
+VP:had,been,ADJ
 PP:P,NP
 PP:PP,PP
 PP:P,N
@@ -48,9 +49,8 @@ PRN:she
 PSP:her
 GP:G,PP
 AUX:couldn't
-AUX:had,been
 V:sleep
-V:asleep
+ADJ:asleep
 V:closed
 V:lay
 V:doze,off
