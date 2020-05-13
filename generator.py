@@ -83,6 +83,9 @@ if __name__ == "__main__":
     with open(outfile, 'w') as o:
         for i in range(num):
             sentence = make_sentence_from_grammar(grammar_dictionary)
-            for word in sentence:
+            # capitalize first word
+            o.write(sentence[0].capitalize() + " ")
+            for word in sentence[1:-1]:
                 o.write(word + " ")
-            o.write("\n")
+            # put a period and no space after the word
+            o.write(sentence[-1] + ".\n")
