@@ -55,7 +55,7 @@ S:NP,VP
 
 S:NP,VP,PP
 
-which indicates that a sentence could become either (line 1) a noun phrase followed by a verb phrase or (line 2) a noun phrase, then a verb phrase, then a prepositional phrase.
+which indicate that a sentence could become either (line 1) a noun phrase followed by a verb phrase or (line 2) a noun phrase, then a verb phrase, then a prepositional phrase.
 
 This would then be represented in a Python dictionary as:
 
