@@ -20,7 +20,7 @@ VP:V
 PP:P,NP
 PP:PP,PP
 PP:P,N
-PN:sophie
+PN:Sophie
 A:a
 A:the
 ADJ:brilliant
