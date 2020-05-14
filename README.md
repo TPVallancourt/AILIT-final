@@ -61,7 +61,7 @@ This would then be represented in a Python dictionary as:
 
 {'S': [['NP', 'VP'], ['NP', 'VP', 'PP']]}
 
-### output.txt
+### bfg_output.txt
 
 Example output of generator.py using bfg_cfg.txt 
 
